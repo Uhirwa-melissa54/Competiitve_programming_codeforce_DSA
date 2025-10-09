@@ -10,3 +10,7 @@ https://codeforces.com/problemset/problem/4/C
 https://codeforces.com/problemset/problem/25/A
 3.Taxi B
 https://codeforces.com/problemset/problem/158/B
+4.String task
+https://codeforces.com/problemset/problem/118/A
+5.EvenOdds
+https://codeforces.com/problemset/problem/318/A
