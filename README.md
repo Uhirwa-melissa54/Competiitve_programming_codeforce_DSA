@@ -18,3 +18,5 @@ https://codeforces.com/problemset/problem/318/A
 https://codeforces.com/problemset/problem/112/A
 7.World capitalization
 https://codeforces.com/problemset/problem/281/A
+8.Word
+https://codeforces.com/problemset/problem/59/A
