@@ -20,3 +20,5 @@ https://codeforces.com/problemset/problem/112/A
 https://codeforces.com/problemset/problem/281/A
 8.Word
 https://codeforces.com/problemset/problem/59/A
+9.YoungPhyisicist
+https://codeforces.com/problemset/problem/69/A
