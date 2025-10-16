@@ -14,3 +14,5 @@ https://codeforces.com/problemset/problem/158/B
 https://codeforces.com/problemset/problem/118/A
 5.EvenOdds
 https://codeforces.com/problemset/problem/318/A
+6.petya and Strings
+https://codeforces.com/problemset/problem/112/A
