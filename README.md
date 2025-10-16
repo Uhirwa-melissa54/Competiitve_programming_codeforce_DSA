@@ -22,3 +22,6 @@ https://codeforces.com/problemset/problem/281/A
 https://codeforces.com/problemset/problem/59/A
 9.YoungPhyisicist
 https://codeforces.com/problemset/problem/69/A
+10.LuckyDivision
+https://codeforces.com/problemset/problem/122/A
+
