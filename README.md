@@ -16,3 +16,5 @@ https://codeforces.com/problemset/problem/118/A
 https://codeforces.com/problemset/problem/318/A
 6.petya and Strings
 https://codeforces.com/problemset/problem/112/A
+7.World capitalization
+https://codeforces.com/problemset/problem/281/A
