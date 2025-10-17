@@ -31,6 +31,8 @@ Question B
 https://codeforces.com/problemset/problem/200/B
 13.Queue At school
 https://codeforces.com/problemset/problem/266/B
+14.Vantaya and Lanterns
+https://codeforces.com/problemset/problem/492/B
 Question c
 12.Registration System
 https://codeforces.com/problemset/problem/4/C
