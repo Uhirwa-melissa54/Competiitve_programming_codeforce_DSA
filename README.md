@@ -29,6 +29,8 @@ https://codeforces.com/problemset/problem/479/A
 Question B
 12.Drinks
 https://codeforces.com/problemset/problem/200/B
+13.Queue At school
+https://codeforces.com/problemset/problem/266/B
 Question c
 12.Registration System
 https://codeforces.com/problemset/problem/4/C
