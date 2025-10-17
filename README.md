@@ -26,4 +26,11 @@ https://codeforces.com/problemset/problem/69/A
 https://codeforces.com/problemset/problem/122/A
 11.Expression
 https://codeforces.com/problemset/problem/479/A
+Question B
+12.Drinks
+https://codeforces.com/problemset/problem/200/B
+Question c
+12.Registration System
+https://codeforces.com/problemset/problem/4/C
+
 
