@@ -28,6 +28,8 @@ https://codeforces.com/problemset/problem/122/A
 https://codeforces.com/problemset/problem/479/A
 12.Beatiful average
 https://codeforces.com/contest/2162/problem/A
+14.Beatiful string
+https://codeforces.com/problemset/problem/1265/A
 Question B
 12.Drinks
 https://codeforces.com/problemset/problem/200/B
