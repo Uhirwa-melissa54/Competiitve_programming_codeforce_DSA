@@ -26,6 +26,8 @@ https://codeforces.com/problemset/problem/69/A
 https://codeforces.com/problemset/problem/122/A
 11.Expression
 https://codeforces.com/problemset/problem/479/A
+12.Beatiful average
+https://codeforces.com/contest/2162/problem/A
 Question B
 12.Drinks
 https://codeforces.com/problemset/problem/200/B
