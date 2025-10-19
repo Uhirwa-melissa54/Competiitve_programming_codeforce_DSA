@@ -30,6 +30,8 @@ https://codeforces.com/problemset/problem/479/A
 https://codeforces.com/contest/2162/problem/A
 14.Beatiful string
 https://codeforces.com/problemset/problem/1265/A
+15.
+https://codeforces.com/problemset/problem/282/A
 Question B
 12.Drinks
 https://codeforces.com/problemset/problem/200/B
