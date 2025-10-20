@@ -34,6 +34,8 @@ https://codeforces.com/problemset/problem/1265/A
 https://codeforces.com/problemset/problem/282/A
 16.
 https://codeforces.com/problemset/problem/158/A
+17.
+https://codeforces.com/problemset/problem/791/A
 Question B
 12.Drinks
 https://codeforces.com/problemset/problem/200/B
