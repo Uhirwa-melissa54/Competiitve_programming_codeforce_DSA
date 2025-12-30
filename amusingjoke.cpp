@@ -11,9 +11,6 @@ int main(){
 	cin >> c;
 	sort(z.begin(),z.end());
 	sort(c.begin(),c.end());
-	cout << z <<"WHAT'S HAPPENIG"<<"\n";
-	cout << c <<"\n";
-	
 	if(z==c){
 		cout << "YES";
 	}

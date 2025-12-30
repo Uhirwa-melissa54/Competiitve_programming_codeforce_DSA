@@ -16,6 +16,8 @@ int ways(int n){
 	
 }
 int main(){
+	int t;
+	cin >> t;
 	int n;
 	cin >> n;
 	int result=ways(n);

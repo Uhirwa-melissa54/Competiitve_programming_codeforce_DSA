@@ -48,6 +48,6 @@ int main(){
     
 }
 for(int i=0; i < answers.size(); i++){
-	cout << answers[i];
+	cout << answers[i] <<"\n";
 }
 }
