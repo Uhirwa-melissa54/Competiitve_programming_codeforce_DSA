@@ -38,6 +38,8 @@ https://codeforces.com/problemset/problem/158/A
 https://codeforces.com/problemset/problem/791/A
 18.
 https://codeforces.com/problemset/problem/617/A
+19.
+https://codeforces.com/problemset/problem/263/A
 Question B
 12.Drinks
 https://codeforces.com/problemset/problem/200/B
