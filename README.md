@@ -47,9 +47,12 @@ https://codeforces.com/problemset/problem/200/B
 https://codeforces.com/problemset/problem/266/B
 14.Vantaya and Lanterns
 https://codeforces.com/problemset/problem/492/B
+14
+https://codeforces.com/contest/2190/problem/A
 Question c
 12.Registration System
 https://codeforces.com/problemset/problem/4/C
 13. I solved your name
+
 
 
