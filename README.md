@@ -53,6 +53,8 @@ https://codeforces.com/problemset/problem/492/B
 https://codeforces.com/contest/2190/problem/A
 15.
 https://codeforces.com/problemset/problem/230/A
+16.
+https://codeforces.com/problemset/problem/189/A
 Question c
 12.Registration System
 https://codeforces.com/problemset/problem/4/C
