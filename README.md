@@ -51,6 +51,8 @@ https://codeforces.com/problemset/problem/706/B/
 https://codeforces.com/problemset/problem/492/B
 14
 https://codeforces.com/contest/2190/problem/A
+15.
+https://codeforces.com/problemset/problem/230/A
 Question c
 12.Registration System
 https://codeforces.com/problemset/problem/4/C
